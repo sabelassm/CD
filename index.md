@@ -9,7 +9,7 @@
 - #### [1.3. Clasificación das linguaxes de programación](UD01/1.4.Clasificacion_linguaxes.md)
 ### [2. Procesos de generación de código](UD01/2.1.Procesos_generacion_codigo.md)
 ### [3. Ciclos de vida](UD01/3.1.Ciclo_de_vida.md)
-- #### [3.2. Scrum](UD01/3.2.scrum.md)
+- #### [3.2. Scrum](UD01/3.2.Scrum.md)
 
 
 
